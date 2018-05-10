@@ -1,0 +1,126 @@
+General Engineering,LinearRegression,fourStar,19.252067753,14.928398234,-2.8781639341,-2.8842414193
+General Engineering,LinearRegression,threeStar,21.2310395153,16.5011859131,-2.4505090733,-2.4516097963
+General Engineering,LinearRegression,twoStar,22.080463327,17.1598760127,-2.5126359138,-2.5151573973
+General Engineering,LinearRegression,oneStar,13.0313854038,10.1477154862,-2.6734702674,-2.677694927
+General Engineering,LinearRegression,unclassified,4.7706105552,3.4970471965,-2.316795959,-2.3184840643
+General Engineering,LinearRegression,average,17.3292916359,12.4468445685,-0.0782224074,-0.0782224075
+General Engineering,Ridge,fourStar,10.4066261315,8.1609369983,-0.1348619717,-0.1349359607
+General Engineering,Ridge,threeStar,12.1368472877,9.4182329224,-0.1276640299,-0.1279528621
+General Engineering,Ridge,twoStar,12.279077442,9.6860600546,-0.0869559212,-0.0870759519
+General Engineering,Ridge,oneStar,7.3798421323,5.6997501808,-0.1788379877,-0.1794747972
+General Engineering,Ridge,unclassified,2.9247227084,1.8736579054,-0.2472001351,-0.2472720811
+General Engineering,Ridge,average,9.6890943351,6.9677276123,0.6661202978,0.6661199659
+General Engineering,Lasso,fourStar,9.7717433306,7.5466838259,-2.22044604925E-16,-0.0006807706
+General Engineering,Lasso,threeStar,11.4284939851,8.5135142054,0,-0.0001316792
+General Engineering,Lasso,twoStar,11.7810824281,9.6821273203,-2.22044604925E-16,-0.0006882512
+General Engineering,Lasso,oneStar,6.7961402907,5.4060205826,0,-0.0002744892
+General Engineering,Lasso,unclassified,2.6190517507,1.5264041919,0,-0.0001841472
+General Engineering,Lasso,average,9.1426287313,6.5349500252,0.7155010857,0.7155010857
+Chemistry,LinearRegression,fourStar,15.4814462164,12.2113911342,-0.9754287884,-0.9841895623
+Chemistry,LinearRegression,threeStar,19.4248479332,15.2965305928,-0.8607909663,-0.8653040452
+Chemistry,LinearRegression,twoStar,20.3639786785,16.0712792924,-0.8324372125,-0.8391280337
+Chemistry,LinearRegression,oneStar,10.4800228535,8.0543703224,-1.0309474201,-1.0466487879
+Chemistry,LinearRegression,unclassified,7.54714554,5.1925090004,-1.1754188935,-1.1764219895
+Chemistry,LinearRegression,average,15.4821303871,11.3652160684,0.3324869057,0.3324869057
+Chemistry,Ridge,fourStar,12.6447495529,10.098789961,-0.3189602872,-0.3236725661
+Chemistry,Ridge,threeStar,16.0528833171,12.7474834795,-0.2722664248,-0.2739150687
+Chemistry,Ridge,twoStar,17.0520929422,13.5685739903,-0.286933746,-0.2895615609
+Chemistry,Ridge,oneStar,8.2720130374,6.2940278179,-0.2665159503,-0.2750913033
+Chemistry,Ridge,unclassified,5.7418646083,3.6016751865,-0.259181518,-0.2597476315
+Chemistry,Ridge,average,12.7259878723,9.262110087,0.5545670687,0.5545663212
+Chemistry,Lasso,fourStar,11.0012493991,9.1679693443,2.22044604925E-16,-0.0019455589
+Chemistry,Lasso,threeStar,14.2254055098,11.2404921821,1.11022302463E-16,-0.000376975
+Chemistry,Lasso,twoStar,15.0242431928,12.0366233807,2.22044604925E-16,-0.0010871957
+Chemistry,Lasso,oneStar,7.3385560143,5.6339191816,0,-0.0035524839
+Chemistry,Lasso,unclassified,5.1186230129,2.8523405463,4.4408920985E-16,-0.0011149453
+Chemistry,Lasso,average,11.2175954616,8.186268927,0.6610383003,0.6610383003
+Geography, Environmental Studies and Archaeology,LinearRegression,fourStar,28.8556774722,22.0445786201,-6.4161151121,-6.4331855291
+Geography, Environmental Studies and Archaeology,LinearRegression,threeStar,61.3101091208,47.4379846483,-15.3509302277,-15.5147330547
+Geography, Environmental Studies and Archaeology,LinearRegression,twoStar,57.5619820224,44.4522335989,-14.5063484593,-14.6260885253
+Geography, Environmental Studies and Archaeology,LinearRegression,oneStar,27.6806906804,21.3728321237,-13.8508965273,-13.9720818448
+Geography, Environmental Studies and Archaeology,LinearRegression,unclassified,5.6433084771,3.8793241322,-1.1681059133,-1.1682167969
+Geography, Environmental Studies and Archaeology,LinearRegression,average,41.7205679354,27.8373906246,-4.5428784255,-4.5428784256
+Geography, Environmental Studies and Archaeology,Ridge,fourStar,11.965855782,9.5637574023,-0.278062343,-0.2782033486
+Geography, Environmental Studies and Archaeology,Ridge,threeStar,17.1385927986,13.554060443,-0.2904460702,-0.2904990841
+Geography, Environmental Studies and Archaeology,Ridge,twoStar,16.8011755145,13.4035763248,-0.3311648607,-0.3312454572
+Geography, Environmental Studies and Archaeology,Ridge,oneStar,8.232523759,6.4446298468,-0.3243190622,-0.3243242556
+Geography, Environmental Studies and Archaeology,Ridge,unclassified,4.2198961689,2.519354163,-0.211699551,-0.2123796943
+Geography, Environmental Studies and Archaeology,Ridge,average,12.6868005226,9.097075636,0.4553860676,0.4553856346
+Geography, Environmental Studies and Archaeology,Lasso,fourStar,10.5847627935,8.3877728494,-4.4408920985E-16,-0.0001719769
+Geography, Environmental Studies and Archaeology,Lasso,threeStar,15.0903864743,11.5491411901,0,-0.000479294
+Geography, Environmental Studies and Archaeology,Lasso,twoStar,14.5617808851,11.65647412,2.22044604925E-16,-1.79257220125E-05
+Geography, Environmental Studies and Archaeology,Lasso,oneStar,7.1558181519,5.8593255048,0,-0.0005687594
+Geography, Environmental Studies and Archaeology,Lasso,unclassified,3.8333911205,1.8945614058,0,-0.0004638218
+Geography, Environmental Studies and Archaeology,Lasso,average,11.1148823726,7.869455014,0.5844123301,0.5844123301
+Physics,LinearRegression,fourStar,76.7928335503,56.6422800718,-41.9492433399,-41.9519109997
+Physics,LinearRegression,threeStar,56.5560369078,42.3831408419,-16.6592474392,-16.6624355731
+Physics,LinearRegression,twoStar,108.83932077,79.5557081513,-43.399384386,-43.4018953193
+Physics,LinearRegression,oneStar,26.9943078492,19.9270457679,-10.8533848658,-10.8730228169
+Physics,LinearRegression,unclassified,10.9123724899,7.9321510999,-7.5610862371,-7.5621936756
+Physics,LinearRegression,average,66.0143846002,41.2880651866,-11.8041178176,-11.8041182749
+Physics,Ridge,fourStar,12.6183318393,10.2408533772,-0.1575073245,-0.15969823
+Physics,Ridge,threeStar,15.4337528521,12.2306458863,-0.3110682023,-0.3153330573
+Physics,Ridge,twoStar,18.0976032137,14.3139079194,-0.2265924468,-0.2276427045
+Physics,Ridge,oneStar,8.7230518255,6.6944135676,-0.230305224,-0.2398062322
+Physics,Ridge,unclassified,4.0914163002,2.5630726976,-0.2023284179,-0.203632831
+Physics,Ridge,average,12.7888825789,9.2085786896,0.5649307671,0.5649303492
+Physics,Lasso,fourStar,11.7276786544,9.7231648805,0,-0.0017635387
+Physics,Lasso,threeStar,13.4712825974,10.9937263809,0,-0.0020988085
+Physics,Lasso,twoStar,16.3386342675,13.4503345821,0,-0.0006019981
+Physics,Lasso,oneStar,7.8553127205,6.2988592743,-4.4408920985E-16,-0.0054115446
+Physics,Lasso,unclassified,3.73161242,2.2022103052,0,-0.0012435767
+Physics,Lasso,average,11.503006045,8.5336590846,0.6593759249,0.6593759249
+Mathematical Sciences,LinearRegression,fourStar,114.905884237,81.1686142366,-163.865207383,-163.950963193
+Mathematical Sciences,LinearRegression,threeStar,197.563664209,136.694435844,-167.419257123,-167.420737493
+Mathematical Sciences,LinearRegression,twoStar,141.069851777,99.5248830188,-123.840101494,-123.853240133
+Mathematical Sciences,LinearRegression,oneStar,140.265353603,98.6421461888,-284.476698272,-284.50155958
+Mathematical Sciences,LinearRegression,unclassified,45.2735147658,31.9573011603,-95.6448358248,-96.1829286965
+Mathematical Sciences,LinearRegression,average,137.01060345,89.5974760898,-66.5558325089,-66.5559486598
+Mathematical Sciences,Ridge,fourStar,9.605011417,7.5367531001,-0.1514009775,-0.1525667549
+Mathematical Sciences,Ridge,threeStar,16.5590305642,13.2032944269,-0.183074166,-0.183181132
+Mathematical Sciences,Ridge,twoStar,13.8019649025,10.9241778655,-0.1950088254,-0.1951247346
+Mathematical Sciences,Ridge,oneStar,9.1594659856,7.380009101,-0.2152333528,-0.2174411349
+Mathematical Sciences,Ridge,unclassified,4.8313883738,2.9944223224,-0.1065649058,-0.1067396236
+Mathematical Sciences,Ridge,average,11.5255377617,8.4077313632,0.5692275361,0.569226862
+Mathematical Sciences,Lasso,fourStar,8.9597251528,6.9372949053,0,-0.0029047601
+Mathematical Sciences,Lasso,threeStar,15.2258213347,12.2866250359,0,-0.0003290441
+Mathematical Sciences,Lasso,twoStar,12.6322948052,10.0385777846,-2.22044604925E-16,-0.0011425093
+Mathematical Sciences,Lasso,oneStar,8.308308385,7.2040309238,-4.4408920985E-16,-0.0016889421
+Mathematical Sciences,Lasso,unclassified,4.5925105384,2.4632665377,0,-0.000004334
+Mathematical Sciences,Lasso,average,10.5999653154,7.7859590375,0.6408755944,0.6408755944
+Computer Science and Informatics,LinearRegression,fourStar,48.0944989743,35.8917309611,-20.6035098667,-20.6148514049
+Computer Science and Informatics,LinearRegression,threeStar,78.2226865032,58.475837396,-20.5310295266,-20.6015805718
+Computer Science and Informatics,LinearRegression,twoStar,60.3722176602,43.9917664899,-18.9349857633,-19.0153528738
+Computer Science and Informatics,LinearRegression,oneStar,39.7267463715,29.6093997695,-20.7150992041,-20.7416905192
+Computer Science and Informatics,LinearRegression,unclassified,21.9773875785,16.5621450786,-25.2061003013,-25.2130256388
+Computer Science and Informatics,LinearRegression,average,53.1749830703,36.906175939,-9.5318169872,-9.531817005
+Computer Science and Informatics,Ridge,fourStar,11.4665703128,9.004539974,-0.2278088424,-0.2286509522
+Computer Science and Informatics,Ridge,threeStar,18.3834790849,14.8486533583,-0.192403737,-0.1930962623
+Computer Science and Informatics,Ridge,twoStar,15.0542177474,12.0894998939,-0.2431701446,-0.2445300284
+Computer Science and Informatics,Ridge,oneStar,9.2240691151,7.3098789121,-0.1719534113,-0.1721209029
+Computer Science and Informatics,Ridge,unclassified,4.5205482339,2.8443770519,-0.1080573017,-0.1090400579
+Computer Science and Informatics,Ridge,average,12.6616177273,9.2193898381,0.3648630645,0.3648627059
+Computer Science and Informatics,Lasso,fourStar,10.3454470406,7.9096751747,0,-0.0001380917
+Computer Science and Informatics,Lasso,threeStar,16.8325926358,13.7502748161,0,-0.0002811874
+Computer Science and Informatics,Lasso,twoStar,13.4958542607,11.2652489789,0,-0.0002066839
+Computer Science and Informatics,Lasso,oneStar,8.520566727,7.1919331,0,-0.0001480162
+Computer Science and Informatics,Lasso,unclassified,4.293882703,2.3671002845,2.22044604925E-16,-0.0006112261
+Computer Science and Informatics,Lasso,average,11.5198959853,8.4968464708,0.4502858593,0.4502858593
+Electrical and Electronic Engineering, Metallurgy and Materials,LinearRegression,fourStar,11.2005705654,8.8177691976,-0.5972241543,-0.5985249787
+Electrical and Electronic Engineering, Metallurgy and Materials,LinearRegression,threeStar,19.8731605895,15.5476561944,-0.6354782983,-0.6354848425
+Electrical and Electronic Engineering, Metallurgy and Materials,LinearRegression,twoStar,15.8580602114,12.589276496,-0.6723679056,-0.6724645296
+Electrical and Electronic Engineering, Metallurgy and Materials,LinearRegression,oneStar,10.5292906641,8.0825609329,-0.7554915862,-0.7564448129
+Electrical and Electronic Engineering, Metallurgy and Materials,LinearRegression,unclassified,6.4673019557,4.6133729671,-0.4688526525,-0.4707865549
+Electrical and Electronic Engineering, Metallurgy and Materials,LinearRegression,average,13.598274324,9.9301271576,0.4217551591,0.4217551591
+Electrical and Electronic Engineering, Metallurgy and Materials,Ridge,fourStar,9.2720956001,7.4160420539,-0.0953397477,-0.0954559926
+Electrical and Electronic Engineering, Metallurgy and Materials,Ridge,threeStar,16.5832448984,13.1474393329,-0.1386582539,-0.1388110389
+Electrical and Electronic Engineering, Metallurgy and Materials,Ridge,twoStar,13.0498928377,10.4931676914,-0.1321194195,-0.1325846768
+Electrical and Electronic Engineering, Metallurgy and Materials,Ridge,oneStar,8.7519795796,6.8464566805,-0.2133422046,-0.2135254001
+Electrical and Electronic Engineering, Metallurgy and Materials,Ridge,unclassified,5.4778818979,3.6208933728,-0.0550695051,-0.0551852303
+Electrical and Electronic Engineering, Metallurgy and Materials,Ridge,average,11.2949529251,8.3047998263,0.6047678311,0.6047676111
+Electrical and Electronic Engineering, Metallurgy and Materials,Lasso,fourStar,8.8606977653,6.9299581854,0,-0.0004029883
+Electrical and Electronic Engineering, Metallurgy and Materials,Lasso,threeStar,15.54164516,12.5673388336,0,-0.0002455266
+Electrical and Electronic Engineering, Metallurgy and Materials,Lasso,twoStar,12.2629445843,10.2327146028,0,-0.0001066666
+Electrical and Electronic Engineering, Metallurgy and Materials,Lasso,oneStar,7.9448871515,6.6094685117,0,-2.7045095595E-05
+Electrical and Electronic Engineering, Metallurgy and Materials,Lasso,unclassified,5.333695458,3.2663079122,-4.4408920985E-16,-0.0003680297
+Electrical and Electronic Engineering, Metallurgy and Materials,Lasso,average,10.6019248076,7.9211576091,0.649918843,0.649918843

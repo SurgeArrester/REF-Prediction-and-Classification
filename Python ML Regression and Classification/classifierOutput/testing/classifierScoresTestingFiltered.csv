@@ -1,0 +1,252 @@
+General Engineering,"LinearRegression(copy_X=True, fit_intercept=True, n_jobs=1, normalize=False)",fourStar,19.3325322218,15.0631622017,-2.91192976897,-2.91677782711
+General Engineering,"LinearRegression(copy_X=True, fit_intercept=True, n_jobs=1, normalize=False)",threeStar,21.3192790475,16.4396882196,-2.47866946532,-2.48036028221
+General Engineering,"LinearRegression(copy_X=True, fit_intercept=True, n_jobs=1, normalize=False)",twoStar,23.4214407528,18.2318713051,-2.94981264026,-2.95508321423
+General Engineering,"LinearRegression(copy_X=True, fit_intercept=True, n_jobs=1, normalize=False)",oneStar,14.3771850018,11.2165430734,-3.47435492729,-3.47653768119
+General Engineering,"LinearRegression(copy_X=True, fit_intercept=True, n_jobs=1, normalize=False)",unclassified,5.21356721281,3.88258813631,-2.96327076502,-2.96334392552
+General Engineering,"LinearRegression(copy_X=True, fit_intercept=True, n_jobs=1, normalize=False)",average,17.9482984141,12.9667705872,-0.152289532754,-0.152289532864
+General Engineering,"Ridge(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=None, solver='auto', tol=0.001)",fourStar,10.3917962145,8.12789180187,-0.131640947342,-0.131703594458
+General Engineering,"Ridge(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=None, solver='auto', tol=0.001)",threeStar,12.1175529275,9.39622227414,-0.12398822207,-0.124369422399
+General Engineering,"Ridge(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=None, solver='auto', tol=0.001)",twoStar,12.2704295561,9.67118051928,-0.0853894033651,-0.0855452834149
+General Engineering,"Ridge(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=None, solver='auto', tol=0.001)",oneStar,7.35534885224,5.68529066682,-0.170993221561,-0.171658568848
+General Engineering,"Ridge(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=None, solver='auto', tol=0.001)",unclassified,2.93466738524,1.88305436658,-0.255697141027,-0.255768479959
+General Engineering,"Ridge(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=None, solver='auto', tol=0.001)",average,9.67575721489,6.95272792574,0.667595335307,0.667595208046
+General Engineering,"Lasso(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=1000,
+   normalize=False, positive=False, precompute=False, random_state=None,
+   selection='cyclic', tol=0.0001, warm_start=False)",fourStar,9.77174333064,7.54668382594,-2.22044604925e-16,-0.00068077060412
+General Engineering,"Lasso(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=1000,
+   normalize=False, positive=False, precompute=False, random_state=None,
+   selection='cyclic', tol=0.0001, warm_start=False)",threeStar,11.4284939851,8.51351420543,0.0,-0.000131679161945
+General Engineering,"Lasso(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=1000,
+   normalize=False, positive=False, precompute=False, random_state=None,
+   selection='cyclic', tol=0.0001, warm_start=False)",twoStar,11.7810824281,9.68212732034,-2.22044604925e-16,-0.000688251202424
+General Engineering,"Lasso(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=1000,
+   normalize=False, positive=False, precompute=False, random_state=None,
+   selection='cyclic', tol=0.0001, warm_start=False)",oneStar,6.79614029067,5.40602058263,0.0,-0.00027448920276
+General Engineering,"Lasso(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=1000,
+   normalize=False, positive=False, precompute=False, random_state=None,
+   selection='cyclic', tol=0.0001, warm_start=False)",unclassified,2.61905175073,1.52640419186,0.0,-0.000184147174441
+General Engineering,"Lasso(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=1000,
+   normalize=False, positive=False, precompute=False, random_state=None,
+   selection='cyclic', tol=0.0001, warm_start=False)",average,9.14262873125,6.53495002524,0.715501085709,0.715501085709
+Chemistry,"LinearRegression(copy_X=True, fit_intercept=True, n_jobs=1, normalize=False)",fourStar,15.8324611698,12.4893871926,-1.06296388407,-1.07518570531
+Chemistry,"LinearRegression(copy_X=True, fit_intercept=True, n_jobs=1, normalize=False)",threeStar,25.2608969886,19.429127351,-2.1376404659,-2.15451002925
+Chemistry,"LinearRegression(copy_X=True, fit_intercept=True, n_jobs=1, normalize=False)",twoStar,23.1811067188,17.9277602709,-1.36771357464,-1.38317003566
+Chemistry,"LinearRegression(copy_X=True, fit_intercept=True, n_jobs=1, normalize=False)",oneStar,12.8826508617,9.79019617102,-2.05863820001,-2.09263977479
+Chemistry,"LinearRegression(copy_X=True, fit_intercept=True, n_jobs=1, normalize=False)",unclassified,7.5593032079,5.20461769806,-1.18251762767,-1.18343961698
+Chemistry,"LinearRegression(copy_X=True, fit_intercept=True, n_jobs=1, normalize=False)",average,18.161768693,12.9682177367,0.073645038595,0.0736450385949
+Chemistry,"Ridge(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=None, solver='auto', tol=0.001)",fourStar,12.6509038737,10.1090922962,-0.319941974732,-0.324961367884
+Chemistry,"Ridge(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=None, solver='auto', tol=0.001)",threeStar,15.9794994952,12.7257498848,-0.260729165451,-0.262294591856
+Chemistry,"Ridge(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=None, solver='auto', tol=0.001)",twoStar,16.9903502071,13.5325473865,-0.277408891565,-0.28023990039
+Chemistry,"Ridge(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=None, solver='auto', tol=0.001)",oneStar,8.26471590997,6.32360050595,-0.264652649095,-0.27284266087
+Chemistry,"Ridge(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=None, solver='auto', tol=0.001)",unclassified,5.74156711182,3.59714280452,-0.25903943809,-0.259617095229
+Chemistry,"Ridge(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=None, solver='auto', tol=0.001)",average,12.69120085,9.2576265756,0.556780659116,0.556780045175
+Chemistry,"Lasso(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=1000,
+   normalize=False, positive=False, precompute=False, random_state=None,
+   selection='cyclic', tol=0.0001, warm_start=False)",fourStar,11.0012493991,9.16796934431,2.22044604925e-16,-0.00194555885221
+Chemistry,"Lasso(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=1000,
+   normalize=False, positive=False, precompute=False, random_state=None,
+   selection='cyclic', tol=0.0001, warm_start=False)",threeStar,14.2254055098,11.2404921821,1.11022302463e-16,-0.000376975040555
+Chemistry,"Lasso(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=1000,
+   normalize=False, positive=False, precompute=False, random_state=None,
+   selection='cyclic', tol=0.0001, warm_start=False)",twoStar,15.0242431928,12.0366233807,2.22044604925e-16,-0.00108719566877
+Chemistry,"Lasso(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=1000,
+   normalize=False, positive=False, precompute=False, random_state=None,
+   selection='cyclic', tol=0.0001, warm_start=False)",oneStar,7.33855601433,5.63391918155,0.0,-0.00355248389965
+Chemistry,"Lasso(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=1000,
+   normalize=False, positive=False, precompute=False, random_state=None,
+   selection='cyclic', tol=0.0001, warm_start=False)",unclassified,5.11862301293,2.85234054632,4.4408920985e-16,-0.00111494525029
+Chemistry,"Lasso(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=1000,
+   normalize=False, positive=False, precompute=False, random_state=None,
+   selection='cyclic', tol=0.0001, warm_start=False)",average,11.2175954616,8.18626892699,0.66103830032,0.66103830032
+"Geography, Environmental Studies and Archaeology","LinearRegression(copy_X=True, fit_intercept=True, n_jobs=1, normalize=False)",fourStar,22.0561862683,17.0440963136,-3.34120453383,-3.34283434877
+"Geography, Environmental Studies and Archaeology","LinearRegression(copy_X=True, fit_intercept=True, n_jobs=1, normalize=False)",threeStar,29.3463665614,22.6740812703,-2.78252926982,-2.78369443154
+"Geography, Environmental Studies and Archaeology","LinearRegression(copy_X=True, fit_intercept=True, n_jobs=1, normalize=False)",twoStar,29.661302729,22.904320606,-3.1473914952,-3.14915103557
+"Geography, Environmental Studies and Archaeology","LinearRegression(copy_X=True, fit_intercept=True, n_jobs=1, normalize=False)",oneStar,16.282015169,12.296274159,-4.17839629485,-4.18017769952
+"Geography, Environmental Studies and Archaeology","LinearRegression(copy_X=True, fit_intercept=True, n_jobs=1, normalize=False)",unclassified,5.59852255369,3.83667940922,-1.13387967797,-1.13393893613
+"Geography, Environmental Studies and Archaeology","LinearRegression(copy_X=True, fit_intercept=True, n_jobs=1, normalize=False)",average,22.4674205702,15.7510903516,-0.63264303054,-0.632643030547
+"Geography, Environmental Studies and Archaeology","Ridge(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=None, solver='auto', tol=0.001)",fourStar,12.0213959365,9.5969520778,-0.289947297963,-0.290096583551
+"Geography, Environmental Studies and Archaeology","Ridge(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=None, solver='auto', tol=0.001)",threeStar,17.1849398157,13.6104476777,-0.297442121902,-0.29748818238
+"Geography, Environmental Studies and Archaeology","Ridge(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=None, solver='auto', tol=0.001)",twoStar,16.8416721663,13.4237823456,-0.337597586703,-0.337670716639
+"Geography, Environmental Studies and Archaeology","Ridge(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=None, solver='auto', tol=0.001)",oneStar,8.24507469094,6.43408372871,-0.328363145355,-0.328365342916
+"Geography, Environmental Studies and Archaeology","Ridge(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=None, solver='auto', tol=0.001)",unclassified,4.21293823768,2.51558641141,-0.207871067278,-0.208384951439
+"Geography, Environmental Studies and Archaeology","Ridge(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=None, solver='auto', tol=0.001)",average,12.7216991266,9.11617044824,0.45393364134,0.453933497898
+"Geography, Environmental Studies and Archaeology","Lasso(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=1000,
+   normalize=False, positive=False, precompute=False, random_state=None,
+   selection='cyclic', tol=0.0001, warm_start=False)",fourStar,10.5847627935,8.38777284937,-4.4408920985e-16,-0.000171976943147
+"Geography, Environmental Studies and Archaeology","Lasso(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=1000,
+   normalize=False, positive=False, precompute=False, random_state=None,
+   selection='cyclic', tol=0.0001, warm_start=False)",threeStar,15.0903864743,11.5491411901,0.0,-0.000479294009561
+"Geography, Environmental Studies and Archaeology","Lasso(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=1000,
+   normalize=False, positive=False, precompute=False, random_state=None,
+   selection='cyclic', tol=0.0001, warm_start=False)",twoStar,14.5617808851,11.65647412,2.22044604925e-16,-1.79257220125e-05
+"Geography, Environmental Studies and Archaeology","Lasso(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=1000,
+   normalize=False, positive=False, precompute=False, random_state=None,
+   selection='cyclic', tol=0.0001, warm_start=False)",oneStar,7.1558181519,5.85932550482,0.0,-0.000568759397855
+"Geography, Environmental Studies and Archaeology","Lasso(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=1000,
+   normalize=False, positive=False, precompute=False, random_state=None,
+   selection='cyclic', tol=0.0001, warm_start=False)",unclassified,3.83339112052,1.89456140583,0.0,-0.000463821798249
+"Geography, Environmental Studies and Archaeology","Lasso(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=1000,
+   normalize=False, positive=False, precompute=False, random_state=None,
+   selection='cyclic', tol=0.0001, warm_start=False)",average,11.1148823726,7.86945501402,0.584412330118,0.584412330118
+Physics,"LinearRegression(copy_X=True, fit_intercept=True, n_jobs=1, normalize=False)",fourStar,81.5254149618,59.6076793986,-47.4078089789,-47.4091148355
+Physics,"LinearRegression(copy_X=True, fit_intercept=True, n_jobs=1, normalize=False)",threeStar,68.9459905525,50.8716341105,-25.1853730042,-25.2488743091
+Physics,"LinearRegression(copy_X=True, fit_intercept=True, n_jobs=1, normalize=False)",twoStar,116.916656082,85.0314820006,-50.1984524031,-50.2368750655
+Physics,"LinearRegression(copy_X=True, fit_intercept=True, n_jobs=1, normalize=False)",oneStar,28.2003736008,20.8281901744,-11.9488251593,-11.9576615916
+Physics,"LinearRegression(copy_X=True, fit_intercept=True, n_jobs=1, normalize=False)",unclassified,11.7187292453,8.55370802449,-8.85611826853,-8.87433196515
+Physics,"LinearRegression(copy_X=True, fit_intercept=True, n_jobs=1, normalize=False)",average,72.1138503393,44.9785387417,-14.3452544222,-14.3452545056
+Physics,"Ridge(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=None, solver='auto', tol=0.001)",fourStar,12.6617816302,10.2615258629,-0.165520341547,-0.167698558388
+Physics,"Ridge(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=None, solver='auto', tol=0.001)",threeStar,15.3536535146,12.1959914475,-0.297638283044,-0.301715642101
+Physics,"Ridge(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=None, solver='auto', tol=0.001)",twoStar,18.0631452123,14.2561847954,-0.221974356067,-0.222972269185
+Physics,"Ridge(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=None, solver='auto', tol=0.001)",oneStar,8.71661625786,6.68514166244,-0.228479841261,-0.237977534203
+Physics,"Ridge(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=None, solver='auto', tol=0.001)",unclassified,4.10684734419,2.5684009119,-0.211564534983,-0.212729112129
+Physics,"Ridge(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=None, solver='auto', tol=0.001)",average,12.7685410236,9.19344893602,0.566831658983,0.56683135642
+Physics,"Lasso(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=1000,
+   normalize=False, positive=False, precompute=False, random_state=None,
+   selection='cyclic', tol=0.0001, warm_start=False)",fourStar,11.7276786544,9.72316488048,0.0,-0.00176353874045
+Physics,"Lasso(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=1000,
+   normalize=False, positive=False, precompute=False, random_state=None,
+   selection='cyclic', tol=0.0001, warm_start=False)",threeStar,13.4712825974,10.9937263809,0.0,-0.00209880852989
+Physics,"Lasso(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=1000,
+   normalize=False, positive=False, precompute=False, random_state=None,
+   selection='cyclic', tol=0.0001, warm_start=False)",twoStar,16.3386342675,13.4503345821,0.0,-0.00060199805199
+Physics,"Lasso(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=1000,
+   normalize=False, positive=False, precompute=False, random_state=None,
+   selection='cyclic', tol=0.0001, warm_start=False)",oneStar,7.85531272048,6.29885927431,-4.4408920985e-16,-0.00541154459026
+Physics,"Lasso(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=1000,
+   normalize=False, positive=False, precompute=False, random_state=None,
+   selection='cyclic', tol=0.0001, warm_start=False)",unclassified,3.73161242002,2.20221030521,0.0,-0.00124357666826
+Physics,"Lasso(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=1000,
+   normalize=False, positive=False, precompute=False, random_state=None,
+   selection='cyclic', tol=0.0001, warm_start=False)",average,11.503006045,8.53365908459,0.659375924908,0.659375924908
+Mathematical Sciences,"LinearRegression(copy_X=True, fit_intercept=True, n_jobs=1, normalize=False)",fourStar,153.747425056,105.865358125,-293.075040997,-294.31534873
+Mathematical Sciences,"LinearRegression(copy_X=True, fit_intercept=True, n_jobs=1, normalize=False)",threeStar,297.767242805,202.429885522,-381.392282598,-381.591448849
+Mathematical Sciences,"LinearRegression(copy_X=True, fit_intercept=True, n_jobs=1, normalize=False)",twoStar,204.186287658,138.467575678,-259.941353617,-260.567959141
+Mathematical Sciences,"LinearRegression(copy_X=True, fit_intercept=True, n_jobs=1, normalize=False)",oneStar,171.081269886,121.746344685,-423.722826687,-423.729663589
+Mathematical Sciences,"LinearRegression(copy_X=True, fit_intercept=True, n_jobs=1, normalize=False)",unclassified,98.2998963387,65.9485301547,-455.250845172,-457.149987246
+Mathematical Sciences,"LinearRegression(copy_X=True, fit_intercept=True, n_jobs=1, normalize=False)",average,196.43182644,126.891538833,-132.682866966,-132.686652422
+Mathematical Sciences,"Ridge(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=None, solver='auto', tol=0.001)",fourStar,9.61276612993,7.55356631946,-0.153298827539,-0.154428581343
+Mathematical Sciences,"Ridge(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=None, solver='auto', tol=0.001)",threeStar,16.5256792013,13.1837487728,-0.178418797397,-0.178419867222
+Mathematical Sciences,"Ridge(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=None, solver='auto', tol=0.001)",twoStar,13.7786242579,10.9115222339,-0.191080739622,-0.191085977064
+Mathematical Sciences,"Ridge(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=None, solver='auto', tol=0.001)",oneStar,9.15396871012,7.39780996328,-0.214541984149,-0.215980219796
+Mathematical Sciences,"Ridge(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=None, solver='auto', tol=0.001)",unclassified,4.83748543396,3.00068223228,-0.109374860333,-0.109534727365
+Mathematical Sciences,"Ridge(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=None, solver='auto', tol=0.001)",average,11.5113008878,8.40946590434,0.567521603479,0.5675212736
+Mathematical Sciences,"Lasso(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=1000,
+   normalize=False, positive=False, precompute=False, random_state=None,
+   selection='cyclic', tol=0.0001, warm_start=False)",fourStar,8.95972515284,6.93729490527,0.0,-0.00290476013278
+Mathematical Sciences,"Lasso(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=1000,
+   normalize=False, positive=False, precompute=False, random_state=None,
+   selection='cyclic', tol=0.0001, warm_start=False)",threeStar,15.2258213347,12.2866250359,0.0,-0.000329044142049
+Mathematical Sciences,"Lasso(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=1000,
+   normalize=False, positive=False, precompute=False, random_state=None,
+   selection='cyclic', tol=0.0001, warm_start=False)",twoStar,12.6322948052,10.0385777846,-2.22044604925e-16,-0.00114250928916
+Mathematical Sciences,"Lasso(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=1000,
+   normalize=False, positive=False, precompute=False, random_state=None,
+   selection='cyclic', tol=0.0001, warm_start=False)",oneStar,8.308308385,7.20403092384,-4.4408920985e-16,-0.00168894206776
+Mathematical Sciences,"Lasso(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=1000,
+   normalize=False, positive=False, precompute=False, random_state=None,
+   selection='cyclic', tol=0.0001, warm_start=False)",unclassified,4.59251053843,2.46326653771,0.0,-4.33397691046e-06
+Mathematical Sciences,"Lasso(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=1000,
+   normalize=False, positive=False, precompute=False, random_state=None,
+   selection='cyclic', tol=0.0001, warm_start=False)",average,10.5999653154,7.78595903747,0.640875594439,0.640875594439
+Computer Science and Informatics,"LinearRegression(copy_X=True, fit_intercept=True, n_jobs=1, normalize=False)",fourStar,54.0354341391,40.4525402398,-26.2656650638,-26.2846718404
+Computer Science and Informatics,"LinearRegression(copy_X=True, fit_intercept=True, n_jobs=1, normalize=False)",threeStar,82.3231512995,61.1482627202,-22.889481505,-22.9256666707
+Computer Science and Informatics,"LinearRegression(copy_X=True, fit_intercept=True, n_jobs=1, normalize=False)",twoStar,65.7835351514,48.3195019164,-22.7310604872,-22.7642115424
+Computer Science and Informatics,"LinearRegression(copy_X=True, fit_intercept=True, n_jobs=1, normalize=False)",oneStar,43.7193565055,32.3478460444,-25.3254180517,-25.331453701
+Computer Science and Informatics,"LinearRegression(copy_X=True, fit_intercept=True, n_jobs=1, normalize=False)",unclassified,23.4016294707,17.69615099,-28.7205542049,-28.7205755388
+Computer Science and Informatics,"LinearRegression(copy_X=True, fit_intercept=True, n_jobs=1, normalize=False)",average,57.4167593558,39.9928603822,-11.5120008841,-11.5120008917
+Computer Science and Informatics,"Ridge(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=None, solver='auto', tol=0.001)",fourStar,11.5441645664,9.03970465201,-0.244651790957,-0.245335770948
+Computer Science and Informatics,"Ridge(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=None, solver='auto', tol=0.001)",threeStar,18.309922379,14.7529279782,-0.182966234481,-0.183567635468
+Computer Science and Informatics,"Ridge(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=None, solver='auto', tol=0.001)",twoStar,15.071692118,12.105430157,-0.246111758491,-0.247420912652
+Computer Science and Informatics,"Ridge(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=None, solver='auto', tol=0.001)",oneStar,9.19593199102,7.28823352989,-0.164911193496,-0.164980928203
+Computer Science and Informatics,"Ridge(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=None, solver='auto', tol=0.001)",unclassified,4.52036234969,2.83743821116,-0.108113301566,-0.108948852731
+Computer Science and Informatics,"Ridge(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=None, solver='auto', tol=0.001)",average,12.6544516856,9.20474690566,0.367624675515,0.36762429981
+Computer Science and Informatics,"Lasso(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=1000,
+   normalize=False, positive=False, precompute=False, random_state=None,
+   selection='cyclic', tol=0.0001, warm_start=False)",fourStar,10.3454470406,7.90967517474,0.0,-0.000138091679621
+Computer Science and Informatics,"Lasso(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=1000,
+   normalize=False, positive=False, precompute=False, random_state=None,
+   selection='cyclic', tol=0.0001, warm_start=False)",threeStar,16.8325926358,13.7502748161,0.0,-0.000281187356576
+Computer Science and Informatics,"Lasso(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=1000,
+   normalize=False, positive=False, precompute=False, random_state=None,
+   selection='cyclic', tol=0.0001, warm_start=False)",twoStar,13.4958542607,11.2652489789,0.0,-0.000206683853811
+Computer Science and Informatics,"Lasso(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=1000,
+   normalize=False, positive=False, precompute=False, random_state=None,
+   selection='cyclic', tol=0.0001, warm_start=False)",oneStar,8.52056672704,7.19193309996,0.0,-0.000148016213546
+Computer Science and Informatics,"Lasso(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=1000,
+   normalize=False, positive=False, precompute=False, random_state=None,
+   selection='cyclic', tol=0.0001, warm_start=False)",unclassified,4.29388270301,2.36710028447,2.22044604925e-16,-0.000611226068665
+Computer Science and Informatics,"Lasso(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=1000,
+   normalize=False, positive=False, precompute=False, random_state=None,
+   selection='cyclic', tol=0.0001, warm_start=False)",average,11.5198959853,8.49684647084,0.450285859274,0.450285859274
+"Electrical and Electronic Engineering, Metallurgy and Materials","LinearRegression(copy_X=True, fit_intercept=True, n_jobs=1, normalize=False)",fourStar,11.3846644634,8.94252012845,-0.651190216859,-0.651503903667
+"Electrical and Electronic Engineering, Metallurgy and Materials","LinearRegression(copy_X=True, fit_intercept=True, n_jobs=1, normalize=False)",threeStar,19.8616443706,15.5065016742,-0.633340149862,-0.633589910459
+"Electrical and Electronic Engineering, Metallurgy and Materials","LinearRegression(copy_X=True, fit_intercept=True, n_jobs=1, normalize=False)",twoStar,15.9760267402,12.6899739108,-0.696631133834,-0.697439672938
+"Electrical and Electronic Engineering, Metallurgy and Materials","LinearRegression(copy_X=True, fit_intercept=True, n_jobs=1, normalize=False)",oneStar,10.5638854881,8.13532473054,-0.767891597618,-0.768005652767
+"Electrical and Electronic Engineering, Metallurgy and Materials","LinearRegression(copy_X=True, fit_intercept=True, n_jobs=1, normalize=False)",unclassified,6.36966112161,4.56777346579,-0.425632389593,-0.426711065081
+"Electrical and Electronic Engineering, Metallurgy and Materials","LinearRegression(copy_X=True, fit_intercept=True, n_jobs=1, normalize=False)",average,13.6491552256,9.96841878196,0.419904140054,0.419904140054
+"Electrical and Electronic Engineering, Metallurgy and Materials","Ridge(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=None, solver='auto', tol=0.001)",fourStar,9.32494019094,7.45965252098,-0.107978143284,-0.107978272363
+"Electrical and Electronic Engineering, Metallurgy and Materials","Ridge(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=None, solver='auto', tol=0.001)",threeStar,16.5243885764,13.091386069,-0.130090780802,-0.130741775435
+"Electrical and Electronic Engineering, Metallurgy and Materials","Ridge(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=None, solver='auto', tol=0.001)",twoStar,13.0936549933,10.5192307531,-0.139100547476,-0.140193544314
+"Electrical and Electronic Engineering, Metallurgy and Materials","Ridge(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=None, solver='auto', tol=0.001)",oneStar,8.71583098327,6.8132365758,-0.203518412023,-0.20352157273
+"Electrical and Electronic Engineering, Metallurgy and Materials","Ridge(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=None, solver='auto', tol=0.001)",unclassified,5.46059662345,3.59565750306,-0.048523479474,-0.0485365328206
+"Electrical and Electronic Engineering, Metallurgy and Materials","Ridge(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=None, solver='auto', tol=0.001)",average,11.2892652877,8.29583268438,0.60728622955,0.607286069037
+"Electrical and Electronic Engineering, Metallurgy and Materials","Lasso(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=1000,
+   normalize=False, positive=False, precompute=False, random_state=None,
+   selection='cyclic', tol=0.0001, warm_start=False)",fourStar,8.8606977653,6.92995818535,0.0,-0.000402988321169
+"Electrical and Electronic Engineering, Metallurgy and Materials","Lasso(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=1000,
+   normalize=False, positive=False, precompute=False, random_state=None,
+   selection='cyclic', tol=0.0001, warm_start=False)",threeStar,15.54164516,12.5673388336,0.0,-0.000245526640146
+"Electrical and Electronic Engineering, Metallurgy and Materials","Lasso(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=1000,
+   normalize=False, positive=False, precompute=False, random_state=None,
+   selection='cyclic', tol=0.0001, warm_start=False)",twoStar,12.2629445843,10.2327146028,0.0,-0.00010666662944
+"Electrical and Electronic Engineering, Metallurgy and Materials","Lasso(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=1000,
+   normalize=False, positive=False, precompute=False, random_state=None,
+   selection='cyclic', tol=0.0001, warm_start=False)",oneStar,7.9448871515,6.60946851167,0.0,-2.7045095595e-05
+"Electrical and Electronic Engineering, Metallurgy and Materials","Lasso(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=1000,
+   normalize=False, positive=False, precompute=False, random_state=None,
+   selection='cyclic', tol=0.0001, warm_start=False)",unclassified,5.333695458,3.26630791221,-4.4408920985e-16,-0.000368029716151
+"Electrical and Electronic Engineering, Metallurgy and Materials","Lasso(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=1000,
+   normalize=False, positive=False, precompute=False, random_state=None,
+   selection='cyclic', tol=0.0001, warm_start=False)",average,10.6019248076,7.92115760913,0.64991884296,0.64991884296
